@@ -1,0 +1,14 @@
+{
+    "BOT_TOKEN": "",
+    "PRESENCE_NAME": "DayZ",
+    "PRESENCE_TYPE": "WATCHING",
+    "POLLING_INTERVAL": 300,
+    "SERVERS": [
+        {
+            "NAME": "Deadfall",
+            "CHANNEL_ID": "1302827689761312859",
+            "ADDRESS": "103.214.108.10",
+            "PORT": "2303"
+        }
+    ]
+}
